@@ -1,0 +1,6 @@
+{
+  "name": "boxMap",
+  "tagline": "",
+  "body": "boxMap aims to provide a tool to accurately detect and localize middleboxes in the Internet. It is a client server \r\napplication using probe-feedback mechanism to probe different Internet paths and post the packet impairment results to a master node. A first implementation will be deployed on Planetlab and Ark testbeds.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
